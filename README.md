@@ -133,9 +133,8 @@ Otimização de Performance e Segurança.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
+<br clear="all">
 ### 🌐 Portfólio Ativo
-
 * **E-commerce (Nuvemshop):** [lojacommpras.lojavirtualnuvem.com.br](https://lojacommpras.lojavirtualnuvem.com.br/)
 * **Blog PHP OO:** [blog-php-oo.onrender.com](https://blog-php-oo.onrender.com)
 * **Sistema de Login:** [login-tp8f.onrender.com](https://login-tp8f.onrender.com)
