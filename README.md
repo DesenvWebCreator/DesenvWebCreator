@@ -145,5 +145,12 @@ Otimização de Performance e Segurança.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/web.creator.devs/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osvALDODOSSANTOS2000@GMAIL.COM)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5554992860869)
+
+### 📊 Minhas Estatísticas
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DesenvWebCreator&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DesenvWebCreator&layout=compact&langs_count=7&theme=dracula" />
+</p>
 <br/>
 <br/>
