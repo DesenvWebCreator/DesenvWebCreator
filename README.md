@@ -140,13 +140,6 @@ Otimização de Performance e Segurança.
 * **Sistema de Login:** [login-tp8f.onrender.com](https://login-tp8f.onrender.com)
 * **Site Institucional (WordPress):** [artesculturaurbana.wordpress.com](https://artesculturaurbana.wordpress.com/)
 
-### 📊 Minhas Estatísticas
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DesenvWebCreator&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DesenvWebCreator&layout=compact&langs_count=7&theme=dracula" />
-</p>
-
 ### 📱 Contato & Redes Sociais
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/web.creator.devs/)
